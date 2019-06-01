@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreightClubAssignment", "FreightClubAssignment\FreightClubAssignment.csproj", "{025F75D0-9CBC-4440-B0FA-678DDA62FFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreightClubAssignmentTests", "FreightClubAssignmentTests\FreightClubAssignmentTests.csproj", "{6B8235F6-730B-4AD5-AE70-CFE44D76E9B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{025F75D0-9CBC-4440-B0FA-678DDA62FFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025F75D0-9CBC-4440-B0FA-678DDA62FFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025F75D0-9CBC-4440-B0FA-678DDA62FFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025F75D0-9CBC-4440-B0FA-678DDA62FFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8235F6-730B-4AD5-AE70-CFE44D76E9B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8235F6-730B-4AD5-AE70-CFE44D76E9B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8235F6-730B-4AD5-AE70-CFE44D76E9B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8235F6-730B-4AD5-AE70-CFE44D76E9B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556E98CC-E9E7-4F7F-83DB-B04A30B97E2E}
+	EndGlobalSection
+EndGlobal
